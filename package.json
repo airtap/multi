@@ -1,6 +1,6 @@
 {
   "name": "airtap-multi",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Use multiple browser providers as one",
   "license": "MIT",
   "author": "Vincent Weevers",
