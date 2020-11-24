@@ -17,7 +17,7 @@
     "run-parallel-settled": "^1.0.0"
   },
   "devDependencies": {
-    "hallmark": "^2.1.0",
+    "hallmark": "^3.1.0",
     "nyc": "^15.1.0",
     "standard": "^14.3.4",
     "tape": "^5.0.1"
